@@ -1,12 +1,12 @@
-.pie-2-1-middle-data {
+.pie-2-3-middle-data {
   position: absolute;
-  width: 180px;
+  width: 155px;
   z-index: 12;
-  margin-top: 216px;
-  margin-left: 216px;
+  margin-top: 210px;
+  margin-left: 230px;
 }
 
-.pie-2-1-male-data {
+.pie-2-3-male-data {
   position: absolute;
   width: 100px;
   margin-top: 250px;
@@ -14,7 +14,7 @@
   z-index: 12;
 }
 
-.pie-2-1-female-data {
+.pie-2-3-female-data {
   position: absolute;
   width: 100px;
   margin-top: 250px;
@@ -22,18 +22,18 @@
   z-index: 12;
 }
 
-.pie-2-1-boy-icon-data {
+.pie-2-3-boy-icon-data {
   position: absolute;
   height: 150px;
-  margin-top: 420px;
-  margin-left: -50px;
+  margin-top: 400px;
+  margin-left: 20px;
   z-index: 12;
 }
 
-.pie-2-1-girl-icon-data {
+.pie-2-3-girl-icon-data {
   position: absolute;
   height: 150px;
   margin-top: 420px;
-  margin-left: 320px;
+  margin-left: 500px;
   z-index: 12;
 }
