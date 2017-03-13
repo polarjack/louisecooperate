@@ -1,0 +1,39 @@
+.pie-2-1-middle-data {
+  position: absolute;
+  width: 180px;
+  z-index: 12;
+  margin-top: 216px;
+  margin-left: 216px;
+}
+
+.pie-2-1-male-data {
+  position: absolute;
+  width: 100px;
+  margin-top: 250px;
+  margin-left: 50px;
+  z-index: 12;
+}
+
+.pie-2-1-female-data {
+  position: absolute;
+  width: 100px;
+  margin-top: 250px;
+  margin-left: 450px;
+  z-index: 12;
+}
+
+.pie-2-1-boy-icon-data {
+  position: absolute;
+  height: 150px;
+  margin-top: 420px;
+  margin-left: -50px;
+  z-index: 12;
+}
+
+.pie-2-1-girl-icon-data {
+  position: absolute;
+  height: 150px;
+  margin-top: 420px;
+  margin-left: 320px;
+  z-index: 12;
+}
